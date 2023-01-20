@@ -14,7 +14,7 @@ function CountdownTimer({ date }) {
   return (
     <div className="timer">
       {timeLeft.days} Days {timeLeft.hours} Hours {timeLeft.minutes} Minutes{" "}
-      {timeLeft.seconds} Seconds to Weddding
+      {timeLeft.seconds} Seconds to Wedding
     </div>
   );
 }
