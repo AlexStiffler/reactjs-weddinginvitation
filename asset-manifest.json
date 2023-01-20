@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shaliniweddinginvitation/static/css/main.1cf32074.css",
-    "main.js": "/shaliniweddinginvitation/static/js/main.0819d34e.js",
+    "main.js": "/shaliniweddinginvitation/static/js/main.83d97361.js",
     "static/js/787.51e40ebe.chunk.js": "/shaliniweddinginvitation/static/js/787.51e40ebe.chunk.js",
     "static/media/kalam-all-400-normal.woff": "/shaliniweddinginvitation/static/media/kalam-all-400-normal.a7012acd40a61a56afe3.woff",
     "static/media/lobster-all-400-normal.woff": "/shaliniweddinginvitation/static/media/lobster-all-400-normal.c3339a18ebb7bcd1cf74.woff",
@@ -16,11 +16,11 @@
     "static/media/icons8-whatsapp.svg": "/shaliniweddinginvitation/static/media/icons8-whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
     "index.html": "/shaliniweddinginvitation/index.html",
     "main.1cf32074.css.map": "/shaliniweddinginvitation/static/css/main.1cf32074.css.map",
-    "main.0819d34e.js.map": "/shaliniweddinginvitation/static/js/main.0819d34e.js.map",
+    "main.83d97361.js.map": "/shaliniweddinginvitation/static/js/main.83d97361.js.map",
     "787.51e40ebe.chunk.js.map": "/shaliniweddinginvitation/static/js/787.51e40ebe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cf32074.css",
-    "static/js/main.0819d34e.js"
+    "static/js/main.83d97361.js"
   ]
 }
