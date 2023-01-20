@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shaliniweddinginvitation/static/css/main.1cf32074.css",
+    "main.js": "/shaliniweddinginvitation/static/js/main.0819d34e.js",
+    "static/js/787.51e40ebe.chunk.js": "/shaliniweddinginvitation/static/js/787.51e40ebe.chunk.js",
+    "static/media/kalam-all-400-normal.woff": "/shaliniweddinginvitation/static/media/kalam-all-400-normal.a7012acd40a61a56afe3.woff",
+    "static/media/lobster-all-400-normal.woff": "/shaliniweddinginvitation/static/media/lobster-all-400-normal.c3339a18ebb7bcd1cf74.woff",
+    "static/media/kalam-devanagari-400-normal.woff2": "/shaliniweddinginvitation/static/media/kalam-devanagari-400-normal.e0d5ade1087c0436356f.woff2",
+    "static/media/lobster-cyrillic-400-normal.woff2": "/shaliniweddinginvitation/static/media/lobster-cyrillic-400-normal.c1f63be72f54fbdd6050.woff2",
+    "static/media/lobster-latin-400-normal.woff2": "/shaliniweddinginvitation/static/media/lobster-latin-400-normal.a1df6431b1729a2cf046.woff2",
+    "static/media/lobster-latin-ext-400-normal.woff2": "/shaliniweddinginvitation/static/media/lobster-latin-ext-400-normal.d541f151eb0c09cc452b.woff2",
+    "static/media/kalam-latin-400-normal.woff2": "/shaliniweddinginvitation/static/media/kalam-latin-400-normal.8c949c6d20b3b7c55f63.woff2",
+    "static/media/lobster-cyrillic-ext-400-normal.woff2": "/shaliniweddinginvitation/static/media/lobster-cyrillic-ext-400-normal.6c9e9690ad824a8badb4.woff2",
+    "static/media/lobster-vietnamese-400-normal.woff2": "/shaliniweddinginvitation/static/media/lobster-vietnamese-400-normal.cbe7acb56e6ff0a3d26b.woff2",
+    "static/media/kalam-latin-ext-400-normal.woff2": "/shaliniweddinginvitation/static/media/kalam-latin-ext-400-normal.b24a1e9f63f713c52bbd.woff2",
+    "static/media/icons8-whatsapp.svg": "/shaliniweddinginvitation/static/media/icons8-whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "index.html": "/shaliniweddinginvitation/index.html",
+    "main.1cf32074.css.map": "/shaliniweddinginvitation/static/css/main.1cf32074.css.map",
+    "main.0819d34e.js.map": "/shaliniweddinginvitation/static/js/main.0819d34e.js.map",
+    "787.51e40ebe.chunk.js.map": "/shaliniweddinginvitation/static/js/787.51e40ebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf32074.css",
+    "static/js/main.0819d34e.js"
+  ]
+}
